@@ -14,6 +14,7 @@ public class Main {
         employee2.setFirstName("Fred");
         employee2.setLastName("Flintstone");
         employee2.setTitle("Bedrock supervisor");
+        employee2.setPhoneNumber("333-333-3333");
 
 
         System.out.println("Name: " + employee.getFirstName() + " " + employee.getLastName());
